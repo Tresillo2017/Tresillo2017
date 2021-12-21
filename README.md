@@ -1,4 +1,5 @@
 
+- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=TresilloCrack)](https://open.spotify.com/user/TresilloCrack)
 
 - 🔭 I’m currently working on SpainRP
 - 🌱 I’m currently learning Python
