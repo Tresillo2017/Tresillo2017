@@ -13,4 +13,6 @@
 ### 📫 How to reach me: @toomas_ps or via [email](mailto:tomas_ps@onmail.com)
 <p>
  <a href="https://gitstats.me/Tresillo2017">
+  <img width="460" height="auto" align="right" alt="Tresillo's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=tresillo2017&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 <a>
