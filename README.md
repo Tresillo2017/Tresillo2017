@@ -1,5 +1,5 @@
 
-- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
 
 - 🔭 I’m currently working on SpainRP
 - 🌱 I’m currently learning Python
