@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Hello+to+my+profile;Here+you+can+find+my+projects+;Make+sure+to+follow+and+fork)](https://git.io/typing-svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tresillo2017&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
-![Views](https://komarev.com/ghpvc/?username=tresillo2017)
 
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
@@ -18,3 +17,4 @@
   <img width="460" height="auto" align="right" alt="Tresillo's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=tresillo2017&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 <a>
+![Views](https://komarev.com/ghpvc/?username=tresillo2017)
