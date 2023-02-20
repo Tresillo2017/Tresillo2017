@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Hello+to+my+profile;Here+you+can+find+my+projects+;Make+sure+to+follow+and+fork)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+my+profile;For+questions%2C+go+down;More+info%2C+https%3A%2F%2Ftomasps.tk)](https://git.io/typing-svg)
 
 ### 💼  Things that I'm currently working on: 
   * Python
@@ -17,7 +17,7 @@
 
 
 
-### 📫 How to reach me: [@toomas_ps](https://twitter.com/toomas_ps) , [telegram](https://t.me/TresilloCrack)or via [email](mailto:tomas_ps@onmail.com)
+### 📫 How to reach me: [@toomas_ps](https://twitter.com/toomas_ps) , [telegram](https://t.me/TresilloCrack) or via [email](mailto:tomas_ps@onmail.com)
 <p>
  <a href="https://gitstats.me/Tresillo2017">
   <img width="460" height="auto" align="right" alt="Tresillo's github stats" 
