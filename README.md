@@ -18,7 +18,8 @@
   <img width="460" height="auto" align="right" alt="Tresillo's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=tresillo2017&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 <a>
-![Views](https://komarev.com/ghpvc/?username=tresillo2017)
+
+ ![Views](https://komarev.com/ghpvc/?username=tresillo2017)
  
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
 
