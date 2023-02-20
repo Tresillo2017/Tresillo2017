@@ -17,7 +17,7 @@
 
 
 
-### 📫 How to reach me: @toomas_ps or via [email](mailto:tomas_ps@onmail.com)
+### 📫 How to reach me: [@toomas_ps](https://twitter.com/toomas_ps) , [telegram](https://t.me/TresilloCrack)or via [email](mailto:tomas_ps@onmail.com)
 <p>
  <a href="https://gitstats.me/Tresillo2017">
   <img width="460" height="auto" align="right" alt="Tresillo's github stats" 
