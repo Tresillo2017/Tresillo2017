@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+my+profile;For+questions%2C+go+down;More+info%2C+https%3A%2F%2Ftomasps.tk)](https://git.io/typing-svg)
+![Header](/header.png)
 
 ### 💼  Things that I'm currently working on: 
   * Python
@@ -6,6 +6,9 @@
   * SpainRP
   * Tesla-Dashboard for simhub
 
+<details>
+
+ <summary>Git Stats</summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tresillo2017&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -17,7 +20,11 @@
          src="https://github-readme-stats.vercel.app/api?username=tresillo2017&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 <a>
 
- ![Views](https://komarev.com/ghpvc/?username=tresillo2017)
+<details>
+
+ 
+![Views](https://komarev.com/ghpvc/?username=tresillo2017)
+
  
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
 
