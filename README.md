@@ -13,7 +13,7 @@
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=penalos)](https://open.spotify.com/user/penalos)
 
  
-__📫 How to reach me: [@toomas_ps](https://twitter.com/toomas_ps) , [telegram](https://t.me/ToomasPS) or via [email](mailto:contact@tomasps.tk)__
+__📫 How to reach me: [@toomas_ps](https://twitter.com/toomas_ps) , [telegram](https://t.me/TomasP) or via [email](mailto:contact@tomasps.tk)__
 
 <details>
 
