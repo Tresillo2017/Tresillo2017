@@ -28,7 +28,7 @@
 <h3 align="left">Now listening to:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=penalos&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=penalos&redirect=true)
-
+> [More spotify stats](https://spotify.tomasps.com/?gname=All&token=ca987bc4-ef91-4996-8cf6-2473fdd3b49b)
 <h3 align="left">Github Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresillo2017&show_icons=true&locale=en&layout=compact" alt="tresillo2017" /></p>
